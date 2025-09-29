@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package atividade02_yuri_and_gabriel;
+package atividade02_gabriel;
 import java.util.Scanner;
 import java.lang.Math;
 /**
@@ -95,3 +95,4 @@ public class Atividade02_yuri_and_gabriel {
           
     
 }
+
