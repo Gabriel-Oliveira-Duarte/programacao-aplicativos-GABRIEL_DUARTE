@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package atividade_06_gabriel_duarte;
-package atividade_06_yuri_duarte;
 import java.util.Scanner;
 import java.util.Random;
 import java.lang.Math;
@@ -193,3 +192,4 @@ public class Atividade_06_Gabriel_duarte {
     }
     
 }
+
