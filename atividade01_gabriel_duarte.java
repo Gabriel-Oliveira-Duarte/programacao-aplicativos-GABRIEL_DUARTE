@@ -10,7 +10,7 @@ class Main {
 		// int idade;
 		// double altura;
 		// boolean estudante;
-		// nome="yuri";
+		// nome="gabriel";
 		// idade= 18;
 		// altura=1.67;
 		// estudante= true;
@@ -33,5 +33,6 @@ class Main {
         System.out.println(d);
 
 }
+
 
 
