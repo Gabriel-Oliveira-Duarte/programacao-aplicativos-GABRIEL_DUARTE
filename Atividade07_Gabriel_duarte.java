@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package atividade_07_Gabriel_duarte;
+package Atividade07_Gabriel_duarte;
 import java.util.Scanner;
 
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Gabriel
  */
-public class Atividade_07_Gabriel_duarte {
+public class Atividade07_Gabriel_duarte {
 
     /**
      * @param args the command line arguments
@@ -211,3 +211,4 @@ public class Atividade_07_Gabriel_duarte {
 
         
     }
+
