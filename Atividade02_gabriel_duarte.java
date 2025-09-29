@@ -9,7 +9,7 @@ import java.lang.Math;
  *
  * @author Aluno
  */
-public class Atividade02_yuri_and_gabriel {
+public class Atividade02_gabriel {
 
     /**
      * @param args the command line arguments
@@ -95,4 +95,5 @@ public class Atividade02_yuri_and_gabriel {
           
     
 }
+
 
