@@ -18,8 +18,10 @@ public class Atividade05_Gabriel_duarte {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner entrada=new Scanner(System.in);
-      //  int n,i;
+       // Scanner entrada=new Scanner(System.in);
+      
+       //1 
+        //  int n,i;
         
        // System.out.print("digite um numero");
       //  n= entrada.nextInt();
@@ -27,7 +29,8 @@ public class Atividade05_Gabriel_duarte {
       //  while(i<=n){
            //  System.out.print(i);
          //   i++;
-         
+
+        //2
        //  int n,soma,quantidade;
          
         
@@ -47,7 +50,9 @@ public class Atividade05_Gabriel_duarte {
   //  n = entrada.nextInt();
            
         //}
+        
         //3
+        
        // String senha,senha_c;
      //   senha_c= "Java123";
       //  System.out.print("digite uma senha");
@@ -56,7 +61,9 @@ public class Atividade05_Gabriel_duarte {
           //  System.out.println("senha errada, tente novamente");
            // senha= entrada.nextLine();
            // System.out.print("senha correta");
-           
+
+        
+           //4
           // int opcao=1,num1,num2,soma,subtracao,adicao,multiplicar;
            
           // while (opcao!=0){
@@ -244,5 +251,6 @@ public class Atividade05_Gabriel_duarte {
     
     }
     
+
 
 
