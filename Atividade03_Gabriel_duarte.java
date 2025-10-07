@@ -16,8 +16,9 @@ public class Atividade03_Gabriel_duarte {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-             //Scanner entrada=new Scanner(System.in);
+
+        //1
+    //Scanner entrada=new Scanner(System.in);
       //  int acucar,p,t;
       //  acucar=200/8;
        // System.out.println("digite a quantidade de porções");
@@ -49,7 +50,7 @@ public class Atividade03_Gabriel_duarte {
        //4 
      //   int maquinas; 
       //  double pecas;  
-        Scanner entrada = new Scanner(System.in);
+       // Scanner entrada = new Scanner(System.in);
         
       //  double tempo;
        //   System.out.print("Digite a quantidade de máquinas: ");
@@ -58,8 +59,8 @@ public class Atividade03_Gabriel_duarte {
       //  tempo = entrada.nextDouble(); 
       //  pecas = (maquinas * tempo) * 30;
         //System.out.println("Número de peças produzidas: " + pecas);
+        
        //5
-       
       // double cotacao,qtd_dolar, valor_reais;
       // System.out.print("Digite a quantidade de cotacao(reais): ");
      //  cotacao = entrada.nextDouble(); 
@@ -80,8 +81,8 @@ public class Atividade03_Gabriel_duarte {
             
            // resultado = (a * x) + b+0;
             //System.out.println("o valor do reusltado final é: " +resultado);
-            //7
-            
+          
+        //7
            // double m,b,y0,x0;
             //System.out.print("digite o valor de m: ");
           //  m= entrada.nextDouble(); 
@@ -93,7 +94,6 @@ public class Atividade03_Gabriel_duarte {
             // System.out.println("o valor do reusltado final é: " +y0);
             
             //8
-            
            // double x1,y1,x2,y2,m,b;
             
         //  System.out.print("Digite o valor de x1: ");
@@ -117,7 +117,6 @@ public class Atividade03_Gabriel_duarte {
           
           
           //9
-          
         //double m1,m2,b1,b2,x,y;
         
         //System.out.print("Digite o valor de m1: ");
@@ -132,7 +131,8 @@ public class Atividade03_Gabriel_duarte {
        //  x=(b2-b1)/(m1-m2);
        //  y= (m1*x) +b1;
          // System.out.println("x: " + x + " y: " + y);
-         
+        
+        //10 
         // double a,b,c,x1,x2,delta;
         // a=entrada.nextDouble();
         //  b=entrada.nextDouble();
@@ -179,7 +179,7 @@ public class Atividade03_Gabriel_duarte {
       //  System.out.print("Valor de f"+f);
             //System.out.print("Valor de f"+f1);
                   
-         
+         //13
          //double m,b,x1,x2,y1,y2,A;
         
         //System.out.print("Valor de m:");
@@ -233,4 +233,5 @@ public class Atividade03_Gabriel_duarte {
     }
     
 }
+
 
