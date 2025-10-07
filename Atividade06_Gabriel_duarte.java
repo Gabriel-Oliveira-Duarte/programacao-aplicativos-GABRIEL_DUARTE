@@ -19,7 +19,9 @@ public class Atividade06_Gabriel_duarte {
     public static void main(String[] args) {
         // TODO code application logic here
          /*Scanner entrada=new Scanner(System.in);
-       // int n;
+       
+        //1
+        // int n;
         
        //do{
          //   System.out.print("digite um nota");
@@ -28,7 +30,8 @@ public class Atividade06_Gabriel_duarte {
             
         //}while(n>10){
         //System.out.print("nota valida"+n);
-        
+
+        //2
        //  int n;
       //  int soma = 0;
       //  int quantidade = 0;
@@ -101,6 +104,7 @@ public class Atividade06_Gabriel_duarte {
          //   op = entrada.next().charAt(0);
 
        // } while (op == 's');
+        
        //5
 
   
@@ -192,5 +196,6 @@ public class Atividade06_Gabriel_duarte {
     }
     
 }
+
 
 
