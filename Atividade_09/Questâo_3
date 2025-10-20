@@ -72,6 +72,7 @@ Scanner entrada = new Scanner(System.in);
 }
     
     
+//Classes
 
 public class Tarefa {
 private int id;
